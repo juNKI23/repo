@@ -9,7 +9,7 @@
             <datadir zip="true">https://raw.githubusercontent.com/juNKI23/master/Repositorio/</datadir>
         </extension>
         <extension point="xbmc.addon.metadata">
-            <summary>Repositorio para AdryanList 2.0.2</summary>
+            <summary>Repositorio para yankieflix 1.0.4</summary>
             <description>Repositorio que pertenece a yankieflix</description>
             <platform>all</platform>
     </extension>

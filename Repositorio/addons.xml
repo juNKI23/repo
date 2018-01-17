@@ -26,7 +26,7 @@
 
   <extension point="xbmc.addon.metadata">
     <summary>Creado por YANKIEFLIX.TV</summary>
-    <description>YANKIEFLIX.TV 2017</description>
+    <description>YANKIEFLIX.TV 2018</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -41,7 +41,7 @@
             <datadir zip="true">https://raw.githubusercontent.com/juNKI23/master/Repositorio/</datadir>
         </extension>
         <extension point="xbmc.addon.metadata">
-            <summary>Repositorio para AdryanList 2.0.2</summary>
+            <summary>Repositorio para yankieflix 1.0.4</summary>
             <description>Repositorio que pertenece a yankieflix</description>
             <platform>all</platform>
     </extension>
