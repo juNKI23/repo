@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <addon id="repository" name="yankieflix Repositorio" version="1.0.1" provider-name="jean carlos">
+    <addon id="repository" name="*yankieflix-Repo*" version="1.0.1" provider-name="*yankieflix*">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
@@ -9,8 +9,8 @@
             <datadir zip="true">https://raw.githubusercontent.com/juNKI23/Repo/master/Repositorio/</datadir>
         </extension>
         <extension point="xbmc.addon.metadata">
-            <summary>Repositorio para yankieflix 1.0.4</summary>
-            <description>Repositorio que pertenece a yankieflix</description>
+            <summary>Repo yankieflix 1.0.1</summary>
+            <description>Repositorio que pertenece a Yankieflix.tv</description>
             <platform>all</platform>
     </extension>
 </addon>
