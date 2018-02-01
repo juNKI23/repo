@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
 <addon id="plugin.video.YANKIEFLIX.TV"
        name="[COLOR gold]YANKI[/COLOR][COLOR gold]EFL[/COLOR][COLOR gold]IX.[/COLOR]T[COLOR gold]V[/COLOR]"
        version="6.0.4"
@@ -15,35 +14,18 @@
     <import addon="script.module.youtube.dl" optional="true"/>
     <import addon="plugin.video.youtube" optional="true" />
     <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />
+    <import addon="script.module.simplejson" />    
      <import addon="script.module.livestreamer" optional="true"/>
      <import addon="script.module.pyamf" optional="true"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
-
-
+  
+	
   <extension point="xbmc.addon.metadata">
     <summary>Creado por YANKIEFLIX.TV</summary>
-    <description>YANKIEFLIX.TV 2018</description>
+    <description>YANKIEFLIX.TV 2017</description>
     <platform>all</platform>
   </extension>
 </addon>
-
-    <addon id="repository" name="yankieflix Repositorio" version="1.0.1" provider-name="jean carlos">
-        <requires>
-            <import addon="xbmc.addon" version="12.0.0"/>
-        </requires>
-        <extension point="xbmc.addon.repository" name="yankieflix Repositorio Oficial">
-            <info compressed="false">https://raw.githubusercontent.com/juNKI23/Repo/master/Repositorio/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/juNKI23/Repo/master/Repositorio/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/juNKI23/Repo/master/Repositorio/</datadir>
-        </extension>
-        <extension point="xbmc.addon.metadata">
-            <summary>Repositorio para yankieflix 1.0.4</summary>
-            <description>Repositorio que pertenece a yankieflix</description>
-            <platform>all</platform>
-    </extension>
-</addon>
-</addons>
